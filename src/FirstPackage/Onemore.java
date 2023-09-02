@@ -9,8 +9,8 @@ public class Onemore {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Onemore oo = new Onemore();
-		oo.ansmethod();
+		Onemore ooo = new Onemore();
+		ooo.ansmethod();
 	}
 
 }
